@@ -1,7 +1,7 @@
 clear 
 Write-Host $Host.UI.RawUI.WindowTitle = "Script to parse lms XML file and write output ot XLS file." 
 Write-Host Author: Relisource -BackgroundColor black -ForegroundColor white 
-Write-Host Contact: ubiswas@relisource.com -BackgroundColor Black -ForegroundColor white 
+Write-Host Contact: uttamcsedu@gmail.com  -BackgroundColor Black -ForegroundColor white 
 Write-Host `n
 
 function getFileType($fileName)
